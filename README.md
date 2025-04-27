@@ -1,2 +1,2 @@
-# topicos
-## Arquivo usado nas aulas de Tópicos Especiais ##
+# Tópicos de Sistemas
+Repositório usado nas aulas de tópicos de sistemas.
